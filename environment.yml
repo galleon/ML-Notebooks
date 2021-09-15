@@ -1,0 +1,15 @@
+name: nb-lewagon-py38
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - dtale
+    - ipywidgets
+    - nbgitpuller
+    - numpy
+    - Pillow
+    - plotly
+    - pandas-profiling
+    - seaborn
+    - statsmodels
+    - xgboost
