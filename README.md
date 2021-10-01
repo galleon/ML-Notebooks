@@ -1,4 +1,5 @@
-# JUST CLICK THE BUTTON
+# A collection of ML Jupyter notebooks on Binder
+
 
 | Theme  | Run on Binder   | Run on Colab |
 | ------ | --------------- | ------------ |
