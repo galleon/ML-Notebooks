@@ -1,0 +1,12 @@
+- dtale
+- ipywidgets
+- matplotlib
+- nbgitpuller
+- numpy
+- Pillow
+- plotly
+- pandas-profiling
+- seaborn
+- statsmodels
+- tensorflow
+- xgboost
