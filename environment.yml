@@ -5,6 +5,7 @@ dependencies:
   - pip:
     - dtale
     - ipywidgets
+    - matplotlib
     - nbgitpuller
     - numpy
     - Pillow
